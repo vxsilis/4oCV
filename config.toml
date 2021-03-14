@@ -1,6 +1,6 @@
-baseURL = "/"
+baseURL = ""
 languageCode = "en-us"
-title = "Resume | MERT BAKIR"
+title = "Resume"
 disableKinds = ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
 theme = "resume-A4"
 
