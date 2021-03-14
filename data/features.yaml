@@ -6,6 +6,7 @@ skills:
 interests:
   - "Photography & Videography"
   - "Electronic Music Production"
+  - "Swimming"
 
 languages:
   - name: "Greek"
@@ -21,7 +22,7 @@ education:
     issued_by: "2nd High School of Ptolemaida"
 
   - name: "Ionian University"
-    date: "2018 - now"
+    date: "2018 till now"
     issued_by: "Department of Informatics"
     link: "https://di.ionio.gr"
 
