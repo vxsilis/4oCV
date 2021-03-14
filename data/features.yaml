@@ -33,11 +33,11 @@ about_me:
   - name: "Full Name"
     level: "Vasileios Gavriilidis"
 
-  - name: "Birth Date:"
+  - name: "Birth Date"
     level: "December of 2000"
 
-  - name: "Location:"
+  - name: "Location"
     level: "Ptolemaida, Greece"
 
-  - name: "Personal Email:"
+  - name: "Personal Email"
     level: "vasilis.gvr@gmail.com"
