@@ -1,0 +1,12 @@
+<div class="section">
+    <h1 class="section-title">{{ .Site.Params.title_as.about_me }}</h1>
+    {{ range .Site.Data.features.about_me }}
+    <div class="item">
+        <h3 class="item-title">{{ .name }}
+            <span class="item-title-span"> - {{ .level }}</span></h3>
+            {{ range .certificates }}
+            <li>{{.}}</li>
+            {{ end }}
+    </div>
+    {{ end }}
+</div>
